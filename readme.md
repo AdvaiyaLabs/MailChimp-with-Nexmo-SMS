@@ -1,8 +1,5 @@
-MailChimp with Nexmo SMS<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image1.jpeg" width=200>
-
-*“An app to send SMS with the MailChimp campaign”*
-
-<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image2.png" width=600>
+#MailChimp with Nexmo SMS
+<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image1.jpeg" width=200>
 
 ##Introduction 
 
