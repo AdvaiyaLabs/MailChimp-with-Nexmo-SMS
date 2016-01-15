@@ -1,0 +1,63 @@
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe.config
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.pdb
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\bin\Debug\MailChimp.dll
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csprojResolveAssemblyReference.cache
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Properties.Resources.resources
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csproj.GenerateResource.Cache
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.exe
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.pdb
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.dll
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.xml
+C:\Swati Gupta\Project\NexmoWithMailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.NexMO.resources
+C:\MailChimp\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe.config
+C:\MailChimp\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe
+C:\MailChimp\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.pdb
+C:\MailChimp\NexmoWithMailChimp\bin\Debug\MailChimp.dll
+C:\MailChimp\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.dll
+C:\MailChimp\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.xml
+C:\MailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Properties.Resources.resources
+C:\MailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csproj.GenerateResource.Cache
+C:\MailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.exe
+C:\MailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.pdb
+C:\MailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Settings.resources
+C:\MailChimp\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.MailChimpCampaign.resources
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe.config
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.pdb
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\bin\Debug\MailChimp.dll
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.dll
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.xml
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csprojResolveAssemblyReference.cache
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.MailChimpCampaign.resources
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Properties.Resources.resources
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Settings.resources
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csproj.GenerateResource.Cache
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.exe
+C:\Swati Gupta\Project\NexmoWithMailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.pdb
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe.config
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.exe
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.pdb
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.pdb
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\MailChimp.dll
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.dll
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.xml
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csprojResolveAssemblyReference.cache
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.MailChimpCampaign.resources
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Properties.Resources.resources
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Settings.resources
+\\tsclient\C\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csproj.GenerateResource.Cache
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe.config
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.exe
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.pdb
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.exe
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\NexmoWithMailChimp.pdb
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\MailChimp.dll
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.dll
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\bin\Debug\ServiceStack.Text.xml
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csprojResolveAssemblyReference.cache
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.MailChimpCampaign.resources
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Properties.Resources.resources
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.Settings.resources
+C:\Swati Gupta\Project\MailChimp\Source\NexmoWithMailChimp\obj\Debug\NexmoWithMailChimp.csproj.GenerateResource.Cache
