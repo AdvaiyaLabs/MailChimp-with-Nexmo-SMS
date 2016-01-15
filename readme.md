@@ -19,7 +19,7 @@ MailChimp user wants to send SMS to all the contacts available in the MailChimp 
 
 -   Make sure the provided information in configuration setting (Nexmo Key, Secret, MailChimp API key, etc.) are correct.
 
-Features
+##Features
 
 -   Send an Email to all the subscribers available in the MailChimp email campaign
 
@@ -110,7 +110,7 @@ Nexmo API Keys
 
 -   Key and Secret will display in the top bar as shown in the below image:
 
-	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image15.png" width=400>
+	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image15.png" width=600>
 
 MailChimp API Keys
 ------------------
@@ -123,15 +123,15 @@ MailChimp API Keys
 
 -   Go to Extras -&gt; API keys.
 
-	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image17.png" width=400>
+	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image17.png" width=600>
 
 -   On “Your API keys” section, click on **Create A Key** button.
 
-	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image18.png" width=400>
+	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image18.png" width=600>
 
 -   After that it will generate an API key.
 
-	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image19.png" width=400>
+	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image19.png" width=600>
 
 Add phone number field in MailChimp list
 ----------------------------------------
@@ -140,20 +140,20 @@ To add phone field in the list, follow the below steps:
 
 -   Sign-in to MailChimp and go to **Lists** menu on the top bar. It will display all the lists. Click on the corresponding list.
 
-	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image20.png" width=400>
+	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image20.png" width=600>
 
 -   Now go to Settings -&gt; List fields and \*|MERGE|\* tags
 
-    <img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image21.png" width=400>
+    <img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image21.png" width=600>
 
 -   Click on “Add a Field” button.
 
-    <img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image22.png" width=400>
+    <img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image22.png" width=600>
 
 -   Select **Phone**. 
 	
-	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image23.png" width=400>
+	<img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image23.png" width=600>
 
 -   Now provide “Field label and type”, “Required?”, “Put this tag in your content” and click on **Save Changes** button.
 
-    <img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image24.png" width=400>
+    <img src="https://github.com/AdvaiyaLabs/Mailchimp-with-Nexmo-SMS/blob/master/Docs/image24.png" width=600>
